@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YRRangePicker_Example' do
+  pod 'YRRangePicker', :path => '../'
+
+  target 'YRRangePicker_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
