@@ -8,11 +8,18 @@
 ## 说明
 
 音视频编辑常用的音轨、画轨上区间选择器。
-操作灵敏，支持选择中间、选择两边。
+1. 操作灵敏
+2. 支持选择中间、选择两边
+3. 支持设置两端图标
+4. 返回最小和最大区域的百分比
 
-## 示例
+## 示例代码
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+克隆代码。在example project，执行 `pod install`
+
+[![选择中间区域](1.jpg)]
+
+[![选择两端区域](2.jpg)]
 
 
 ## 集成
