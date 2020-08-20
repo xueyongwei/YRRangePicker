@@ -18,11 +18,11 @@
 克隆代码。在example project，执行 `pod install`
 
 选择中间区域:
-![选择中间区域](1.jpg)
+![选择中间区域](1.jpg){:height="50%" width="50%"}
 
 
 选择两端区域：
-![选择两端区域](2.jpg)
+![选择两端区域](2.jpg){:height="50%" width="50%"}
 
 
 ## 集成
