@@ -1,0 +1,6 @@
+framework module Pods_YRRangePicker_Tests {
+  umbrella header "Pods-YRRangePicker_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

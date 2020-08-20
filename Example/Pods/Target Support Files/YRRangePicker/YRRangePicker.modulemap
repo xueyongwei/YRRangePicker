@@ -1,0 +1,6 @@
+framework module YRRangePicker {
+  umbrella header "YRRangePicker-umbrella.h"
+
+  export *
+  module * { export * }
+}

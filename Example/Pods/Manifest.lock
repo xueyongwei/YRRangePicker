@@ -1,0 +1,16 @@
+PODS:
+  - YRRangePicker (0.1.0)
+
+DEPENDENCIES:
+  - YRRangePicker (from `../`)
+
+EXTERNAL SOURCES:
+  YRRangePicker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YRRangePicker: b8c820440227ff7ca3fbb162ddfbbdc5e7814341
+
+PODFILE CHECKSUM: db435d90dbe5df37d268765c84748a27d5f5e383
+
+COCOAPODS: 1.9.1

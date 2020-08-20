@@ -28,7 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1228883C6C6C47D266089A7B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		1228883C6C6C47D266089A7B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		26EC2E6AA4A7697C6D8B864B /* Pods-YRRangePicker_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YRRangePicker_Example.release.xcconfig"; path = "Target Support Files/Pods-YRRangePicker_Example/Pods-YRRangePicker_Example.release.xcconfig"; sourceTree = "<group>"; };
 		33438AC68F8FD64EA1D0F108 /* Pods-YRRangePicker_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YRRangePicker_Tests.debug.xcconfig"; path = "Target Support Files/Pods-YRRangePicker_Tests/Pods-YRRangePicker_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		5943AB5A182839A594601498 /* Pods-YRRangePicker_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YRRangePicker_Example.debug.xcconfig"; path = "Target Support Files/Pods-YRRangePicker_Example/Pods-YRRangePicker_Example.debug.xcconfig"; sourceTree = "<group>"; };
@@ -42,9 +42,9 @@
 		607FACE51AFB9204008FA782 /* YRRangePicker_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YRRangePicker_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		836E9566C30C4783CE2DB59C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		836E9566C30C4783CE2DB59C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		A707E7973E255505F202CD42 /* Pods_YRRangePicker_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YRRangePicker_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		B8B698E0316517E7B9288EF1 /* YRRangePicker.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = YRRangePicker.podspec; path = ../YRRangePicker.podspec; sourceTree = "<group>"; };
+		B8B698E0316517E7B9288EF1 /* YRRangePicker.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = YRRangePicker.podspec; path = ../YRRangePicker.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		BAC9D7CD08218CBFC4555431 /* Pods_YRRangePicker_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YRRangePicker_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C4B6921876BD9DFA222E0729 /* Pods-YRRangePicker_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YRRangePicker_Tests.release.xcconfig"; path = "Target Support Files/Pods-YRRangePicker_Tests/Pods-YRRangePicker_Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -147,7 +147,6 @@
 				33438AC68F8FD64EA1D0F108 /* Pods-YRRangePicker_Tests.debug.xcconfig */,
 				C4B6921876BD9DFA222E0729 /* Pods-YRRangePicker_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

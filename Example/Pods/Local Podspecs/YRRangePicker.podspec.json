@@ -1,0 +1,24 @@
+{
+  "name": "YRRangePicker",
+  "version": "0.1.0",
+  "summary": "音视频编辑常用的轨道区间选择器.",
+  "swift_versions": "5.0",
+  "description": "灵敏的操作，支持选取中间或者选取两端。支持实时切换选择模式。",
+  "homepage": "https://github.com/Yuri/YRRangePicker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Yuri": "xueyongwei@foxmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Yuri/YRRangePicker.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "YRRangePicker/Classes/**/*",
+  "swift_version": "5.0"
+}
