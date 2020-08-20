@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'YRRangePicker'
-  s.version          = '0.1.0'
+  s.version          = '1.1.0'
   s.summary          = '音视频编辑常用的轨道区间选择器.'
   s.swift_version    = '5.0'
 
